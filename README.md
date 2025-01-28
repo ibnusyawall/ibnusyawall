@@ -28,7 +28,7 @@ I'm Ibnu Syawal, a student from Vocational High School of Padaherang <img src="h
 
 - 🌱 I’m currently learning NestJS, Laravel and Vue
 - 👯 I’m looking to collaborate as Web Developer
-- 📫 How to reach me: syawaltech@gmail.com
+- 📫 How to reach me: ibnusyawal24@gmail.com
 
 ### Github Statistic
 
