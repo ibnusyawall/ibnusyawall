@@ -47,7 +47,7 @@ I'm Ibnu Syawal, a student from Vocational High School of Padaherang <img src="h
   <a href="https://www.linkedin.com/in/isywl/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:syawaltech@gmail.com" target="_blank">
+  <a href="mailto:ibnusyawal24@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
