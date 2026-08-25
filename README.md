@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
 </p>
 
-### Github Statistic
+## GitHub Stats
 
 <p align="left">
 <a href="https://github.com/ibnusyawall">
@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<h3>Where to find me</h3>
+## Find me 
+
 <p>
   <a href="https://github.com/ibnusyawall" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
