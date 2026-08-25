@@ -20,15 +20,20 @@ Here are some ideas to get you started:
 
 <h1>Hi there, I'm Ibnu Syawal👋</h1>
 
-<p>Welcome to my page! </br> 
-I'm Ibnu Syawal, a student from Vocational High School of Padaherang <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Pangandaran, Indonesia.</b> Currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Bogor, Indonesia</b>. 
+<p>
+  Software Developer and Statistics student from Indonesia.
+  I enjoy building web applications, backend systems, APIs, and automation —
+  while gradually exploring data, statistics, and R.
 </p>
 
 ## About me:
 
-- 🌱 I’m currently learning NestJS, Laravel and Vue
-- 👯 I’m looking to collaborate as Web Developer
-- 📫 How to reach me: ibnusyawal24@gmail.com
+- 💻 I work mostly on backend and full-stack web development
+- 📊 Currently studying Statistics at Universitas Terbuka
+- 🧠 Interested in backend systems, APIs, system design, automation, and data
+- 🌱 Currently exploring statistical computing and data analysis with R
+- 🛠️ I enjoy building practical things, learning new technologies, and occasionally breaking things just to understand how they work
+- 🤝 Open to interesting open-source collaborations
 
 ### Github Statistic
 
