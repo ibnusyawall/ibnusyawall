@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 ## Find me
 
 <p>
-  <a href="https://github.com/ibnusyawall">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://medium.com/@ibnusyawall">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/isywl/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
