@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/ibnusyawall">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibnusyawall&show_icons=true&hide_border=true&theme=transparent" alt="Ibnu Syawal's GitHub stats" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=ibnusyawall&show_icons=true&hide_border=true&theme=transparent" alt="Ibnu Syawal's GitHub stats" />
   </a>
   <a href="https://github.com/ibnusyawall">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnusyawall&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ibnu Syawal's most used languages" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ibnusyawall&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ibnu Syawal's most used languages" />
   </a>
 </p>
 
