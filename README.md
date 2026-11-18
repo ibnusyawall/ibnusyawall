@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://medium.com/@ibnusyawall">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" />
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/isywl/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
